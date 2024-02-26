@@ -1,0 +1,16 @@
+C:\Users\ip521-14\source\repos\UP_7\UP_7\bin\Debug\net6.0-windows\UP_7.exe
+C:\Users\ip521-14\source\repos\UP_7\UP_7\bin\Debug\net6.0-windows\UP_7.deps.json
+C:\Users\ip521-14\source\repos\UP_7\UP_7\bin\Debug\net6.0-windows\UP_7.runtimeconfig.json
+C:\Users\ip521-14\source\repos\UP_7\UP_7\bin\Debug\net6.0-windows\UP_7.dll
+C:\Users\ip521-14\source\repos\UP_7\UP_7\bin\Debug\net6.0-windows\UP_7.pdb
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.Form1.resources
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.csproj.GenerateResource.cache
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.AssemblyInfoInputs.cache
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.AssemblyInfo.cs
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.csproj.CoreCompileInputs.cache
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.dll
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\refint\UP_7.dll
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.pdb
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\UP_7.genruntimeconfig.cache
+C:\Users\ip521-14\source\repos\UP_7\UP_7\obj\Debug\net6.0-windows\ref\UP_7.dll
